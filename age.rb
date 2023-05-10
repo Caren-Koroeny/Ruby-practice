@@ -11,3 +11,9 @@ age_in_20_years = age + 20
 age_in_30_years = age + 30
 age_in_40_years = age + 40
 
+# Display the user's age in 10, 20, 30, and 40 years
+puts "In 10 years, you will be #{age_in_10_years} years old."
+puts "In 20 years, you will be #{age_in_20_years} years old."
+puts "In 30 years, you will be #{age_in_30_years} years old."
+puts "In 40 years, you will be #{age_in_40_years} years old."
+
