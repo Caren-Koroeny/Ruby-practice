@@ -14,3 +14,4 @@
         In 40 years you will be:
         60
 3. Add another section onto `name.rb` that prints the name of the `user 10 times`. You must do this without explicitly writing the puts method 10 times in a row. `Hint: you can use the times method to do something repeatedly`.
+4. Modify name.rb again so that it first asks the user for their first name, saves it into a variable, and then does the same for the last name. Then outputs their full name all at once.
