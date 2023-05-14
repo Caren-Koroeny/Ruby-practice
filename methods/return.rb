@@ -17,3 +17,5 @@ def add_three(number)
   
   returned_value = add_three(4)
   puts returned_value
+
+# However  in Ruby the return reserved word is not required in order to return something from a method.
